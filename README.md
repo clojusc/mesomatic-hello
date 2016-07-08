@@ -1,5 +1,9 @@
 # mesomatic-hello
 
+**DEPRECATED**: This project has been merged with the [mesomatic-examples](https://github.com/clojusc/mesomatic-examples) project; as such, it is no longer maintained ...
+
+----
+
 *A 'Hello, World' for Clojure and Mesos using Mesomatic*
 
 [![][mesos-logo]][mesos-logo-large]
